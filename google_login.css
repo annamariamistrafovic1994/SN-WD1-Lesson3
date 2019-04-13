@@ -1,0 +1,82 @@
+.container {
+width: 450px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.img {
+width: 700px;
+height: 400px;
+margin: auto;
+}
+
+
+.logo {
+margin: auto;
+width: 150px;
+}
+
+
+.title {
+margin: auto;
+width: 400px;
+}
+
+
+.login_title {
+font-size: 300px:
+font-weight: 350;
+color: light-blue;
+margin-left: 20px;
+position: fixed;
+}
+
+
+.signin {
+margin: auto;
+width: 300px;
+}
+
+
+.login_text {
+text-align: center;
+width: 600px;
+font-size: 35px;
+}
+
+
+.account {
+margin: auto;
+}
+
+
+.form {
+width: 350px;
+margin: auto;
+padding: 20px;
+}
+
+
+.form_text {
+margin: auto;
+width: 300px;
+}
+
+
+.button_login {
+width: 100%;
+font-weight: 350;
+text-align: center;
+background-color: tomato;
+padding: 10px 15px;
+font-size: 20px;
+}
+
+
+.login_text {
+color: velvet;
+font:size: 20px;
+font-weight: 350;
+}
+
